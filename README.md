@@ -1,6 +1,4 @@
 # YOLOShipTracker
-Paper repository for YOLOShipTracker. The dataset is confidential. 
-# YOLOShipTracker
 
 **YOLOShipTracker: Tracking ships in SAR images using lightweight YOLOv8**
 
